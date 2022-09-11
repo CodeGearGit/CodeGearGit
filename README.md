@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# Youtube
-### https://www.youtube.com/channel/UC-Gao5whUjNMzsAIwsK2X2A
+### Youtube
+##### https://www.youtube.com/channel/UC-Gao5whUjNMzsAIwsK2X2A
 
-# Blog
-### https://codegear.tistory.com/
+### Blog
+##### https://codegear.tistory.com/
 
 <!--
 **CodeGearGit/CodeGearGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
